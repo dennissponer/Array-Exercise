@@ -24,3 +24,4 @@ if (typeof module !== "undefined") {
     arrayFlattener,
   };
 }
+![image](https://user-images.githubusercontent.com/76220601/111797940-d1b18780-8886-11eb-8f50-80097e358902.png)
